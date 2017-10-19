@@ -7,13 +7,13 @@ A very simple echarts(v3.0) wrapper for react.
 # 1. install
 
 ```sh
-npm install --save echarts-for-react
+npm install --save YYwork/echarts-for-react
 ```
 
 How to run the demo:
 
 ```sh
-git clone git@github.com:hustcc/echarts-for-react.git
+git clone git@github.com:YYwork/echarts-for-react.git
 
 npm install
 
